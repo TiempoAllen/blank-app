@@ -41,36 +41,20 @@ elif choice == "Skills":
 elif choice == "Portfolio":
     st.title("Portfolio")
     st.write("""
-        
-        ### Personal Portfolio Website
-        ###Description: Developed a responsive personal portfolio website to showcase projects and skills using ReactJS.
-             
-        Key Features:  Responsive design, interactive elements, integration with social media profiles
-             
-        Link: https://tiempoallen.onrender.com/
+         ### Personal Portfolio Website
+        - **Description**: Developed a responsive personal portfolio webstie to showcase projects and skills using ReactJS
+        - **Key Features**: Responsive Design, interactive elements, integration with social media profiles
+        - **Link**: https://tiempoallen.onrender.com/
         
         ### Campus Sync
-        Description: Developed a comprehensive system for campus announcements and event management.
-Users can add announcements and events, while admins can manage posts. Created using ReactJS for the
-front end, MySQL for the database, and Spring Boot for the back end.
-
-             
-        Key Features:  User authentication and authorization, CRUD operations for announcements and events,
-Notifications for new announcements and events
-             
-        Link: https://github.com/TiempoAllen/campus-sync.git
-
+        - **Description**: Developed a comprehensive system for campus announcements and event management.
+        - **Key Features**: User authentication and authorization, CRUD operations for announcements and events, Notifications for new announcements and events
+        - **Link**: https://tiempoallen.onrender.com/
         
         ### CITU Streamlined Service Portal
-        Description: Designed and developed a system where users can request various types of technicians,
-including janitors, electricians, and plumbers. Built with ReactJS for the front end, PostgreSQL for the
-database, and a back end using Spring Boot and ExpressJS.
-             
-        Key Features:  User-friendly interface for service requests, Role-based access control for users and
-administrators, Comprehensive reporting and analytics
-             
-        Link: https://github.com/TiempoAllen/streamlined-service-portal.git
-        
+        - **Description**: Designed and developed a system where users can request various types of technicians, including janitors, electricians, and plumbers.
+        - **Key Features**: User-friendly interface for service requests, Role-based access control for users and administrators, Comprehensive reporting and analytics.
+        - **Link**: https://github.com/TiempoAllen/streamlined-service-portal.git
     """)
 
 # Footer
